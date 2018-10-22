@@ -1,5 +1,5 @@
 {
-    "name": "RP/nova-slider",
+    "name": "rp/nova-slider",
     "description": "A Laravel Nova filter",
     "keywords": [
         "laravel",
